@@ -15,3 +15,21 @@ This project aims to understand the waste generation and recycling scene in Euro
 2.  A jupyter notebook where the report and other steps are provided in Python.
    
 3.  The final presentation of the project as a pdf.
+
+
+## Help
+
+Any advise for common problems or issues.
+```
+command to run if program contains helper info
+```
+
+## Authors
+
+Contributors names and contact info
+
+1. Rand Fatouh 
+2. Mariam njeru
+
+
+
