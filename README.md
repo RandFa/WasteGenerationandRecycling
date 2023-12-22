@@ -42,6 +42,7 @@ The datasets used for the analysis are the following:
      ![image](https://github.com/RandFa/WasteGenerationandRecycling/assets/62840736/54fbb3a5-3184-4196-8388-0f5d6303abf3)
    ### Italy:
    * The first waste prevention program (WPP) in Italy came into force in 2013, and waste generation dropped in the following year but increased in the years that followed.
+  
      ![image](https://github.com/RandFa/WasteGenerationandRecycling/assets/62840736/26116baa-74eb-4b7f-ad35-25caa29cbf9a)
    ### Spain:
    * Waste generation was decreasing and reached its lowest point at 2014, which is linked to the global financial crisis. 
@@ -50,7 +51,8 @@ The datasets used for the analysis are the following:
 3. Clustering:
    ###  Based on correlation using clustered  heatmaps:
       * Based on waste generation we got these three clusters: Cluster 1: alternating periods of increase and decrease in waste generation.Cluster 2: A steady high increase in waste generation over the years. Cluster 3:  increase in waste generation from 2010-2018 and then slight decrease.
-         ![image](https://github.com/RandFa/WasteGenerationandRecycling/assets/62840736/c0fbb4ba-bf61-4ef9-a6eb-08873d73992b)
+  
+        ![image](https://github.com/RandFa/WasteGenerationandRecycling/assets/62840736/c0fbb4ba-bf61-4ef9-a6eb-08873d73992b)
       * Based on waste recyling, we got these 4 clusters: Cluster 1: steady recycling rate with a small drop at 2014. Cluster 2: steady recycling rate. Cluster 3:  increase in waste recycling over the time period. Cluster 4: steady recycling with a slight drop at 2016.
            ![image](https://github.com/RandFa/WasteGenerationandRecycling/assets/62840736/37d0b2a7-4d2e-486e-94e2-8edbca0a374e)
 
