@@ -50,7 +50,7 @@ The datasets used for the analysis are the following:
 3. Clustering:
    ###  Based on correlation using clustered  heatmaps:
       * Based on waste generation we got these three clusters: Cluster 1: alternating periods of increase and decrease in waste generation.Cluster 2: A steady high increase in waste generation over the years. Cluster 3:  increase in waste generation from 2010-2018 and then slight decrease.
-           ![image](https://github.com/RandFa/WasteGenerationandRecycling/assets/62840736/c0fbb4ba-bf61-4ef9-a6eb-08873d73992b)
+         ![image](https://github.com/RandFa/WasteGenerationandRecycling/assets/62840736/c0fbb4ba-bf61-4ef9-a6eb-08873d73992b)
       * Based on waste recyling, we got these 4 clusters: Cluster 1: steady recycling rate with a small drop at 2014. Cluster 2: steady recycling rate. Cluster 3:  increase in waste recycling over the time period. Cluster 4: steady recycling with a slight drop at 2016.
            ![image](https://github.com/RandFa/WasteGenerationandRecycling/assets/62840736/37d0b2a7-4d2e-486e-94e2-8edbca0a374e)
 
